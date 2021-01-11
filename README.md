@@ -1,5 +1,5 @@
 #### Hi Github! I'm Steven.
-Currently, I am Data Science Fellow with Insight Data Science, and a sometimes postdoctoral research associate at Rutgers University. I'm interested in data applied to everything, but I have a background in observational astrophysics and machine learning applied to large-area sky surveys. Reach out, and let's chat.
+Currently, I am a machine learning engineer with the Global Analytics group at Activision/Blizzard. Previously, I've been at Texas A&M University, Rutgers University, and Insight Data Science. I'm interested in data applied to everything, and I have a background in observational astrophysics and machine learning applied to large-area sky surveys. Reach out, and let's chat.
 
 
 
